@@ -1,0 +1,1 @@
+Demo for monolithic app deployment over openstack using terraform and Gitlab GitOps.
